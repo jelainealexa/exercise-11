@@ -5,3 +5,4 @@ integer = "032518"
 
 # Reverse the integer
 # Range(start, end, step)
+for i in range (-1, -7, -1):
