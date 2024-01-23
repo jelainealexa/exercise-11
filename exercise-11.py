@@ -1,6 +1,7 @@
 # Write a Program to extract each digit from an integer in the reverse order
 
 # Integer
+integer = "032518"
 
 # Reverse the integer
 # Range(start, end, step)
