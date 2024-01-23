@@ -7,4 +7,4 @@ integer = "032518"
 # Range(start, end, step)
 for i in range (-1, -7, -1):
     # Print result
-    print(integer[i])
+    print(integer[i], end="")
